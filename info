@@ -1,0 +1,10 @@
+libraries needed - 
+1. keras, 
+2. numpy, 
+3. pandas, 
+4. emoji (pip install emoji)
+
+Trained on - Nvidia mx150 GPU 2GB, takes around 10-20 sec to load the word vector file and around a minute to train the model.
+
+Files needed - 
+1. GloVe word vector file. link in the data file

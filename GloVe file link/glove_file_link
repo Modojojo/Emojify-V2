@@ -1,0 +1,5 @@
+The GloVe file can be downloaded from - https://nlp.stanford.edu/projects/glove/
+
+A number of glove pretrained files are available on the above site. 
+
+GloVe file used in this model - **glove.6B.50d.txt**

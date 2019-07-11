@@ -1,0 +1,8 @@
+Train and test files are provided seperately, data can also be downloaded from kaggle. 
+Both the csv data files contains 2 column - 1. the sentence (string), 2. emoji_id (int)
+The labels dictionary mapping the emoji_id to the emoji is given below.
+emoji_dict ={0:":blue_heart:",                         💙
+             1:":baseball:",                           ⚾
+             2:":grinning_face_with_big_eyes:",        😃
+             3:":tired_face:",                         😫
+             4:":fork_and_knife:"}                     🍴 
